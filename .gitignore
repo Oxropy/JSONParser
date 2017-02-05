@@ -1,0 +1,5 @@
+/.idea/*
+!/.idea/codeStyleSettings.xml
+/packages
+bin/
+obj/
